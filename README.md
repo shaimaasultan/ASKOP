@@ -1,3 +1,3 @@
 # ASKOP
 Ask Watson a Question about Ontario Parks
-<img src="none.jpg" width="350" />
+<img src="https://github.com/shaimaasultan/ASKOP/blob/main/ASKOP.jpg" width="350" />
